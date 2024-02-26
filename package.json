@@ -1,0 +1,27 @@
+{
+    "name": "expassgen",
+    "version": "1.0.1",
+    "description": "A package for generating random passwords with customizable options.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "exronin",
+    "license": "MIT",
+    "keywords": [
+      "password",
+      "generator",
+      "random"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ExRonin/expassgen.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ExRonin/expassgen/issues"
+    },
+    "homepage": "https://github.com/ExRonin/expassgen#readme",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
